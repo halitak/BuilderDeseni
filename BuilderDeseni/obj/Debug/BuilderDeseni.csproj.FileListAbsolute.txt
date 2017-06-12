@@ -1,0 +1,6 @@
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\bin\Debug\BuilderDeseni.exe.config
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\bin\Debug\BuilderDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\bin\Debug\BuilderDeseni.pdb
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\obj\Debug\BuilderDeseni.csprojResolveAssemblyReference.cache
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\obj\Debug\BuilderDeseni.exe
+c:\users\kuzuryuse\documents\visual studio 2012\Projects\BuilderDeseni\BuilderDeseni\obj\Debug\BuilderDeseni.pdb
